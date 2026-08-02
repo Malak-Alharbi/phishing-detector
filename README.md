@@ -34,16 +34,6 @@ The trained model and encoders (`best_model.pkl`, `feature_columns.pkl`, `label_
 ### Legitimate link result
 ![Legitimate Result](assets/legitimate-result.png)
 
-## How to run
-
-```bash
-git clone https://github.com/Malak-Alharbi/phishing-detector.git
-cd phishing-detector
-pip install -r requirements.txt
-python 04_dashboard.py
-```
-
-(Run the numbered scripts in order first if you want to retrain the model from scratch.)
 
 ## Notes / what I'd improve
 
@@ -52,5 +42,5 @@ python 04_dashboard.py
 - Could turn this into a browser extension eventually
 
 ---
-Malak Alharbi - IS graduate, into cybersecurity
+Malak Alharbi 
 [LinkedIn](https://www.linkedin.com/in/malak-alharbi-is)
