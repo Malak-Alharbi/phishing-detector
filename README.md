@@ -35,7 +35,7 @@ The trained model and encoders (`best_model.pkl`, `feature_columns.pkl`, `label_
 ![Legitimate Result](assets/legitimate-result.png)
 
 
-## Notes / what I'd improve
+# what I'd improve
 
 - Bigger dataset would help generalization
 - Want to try comparing more models
