@@ -26,13 +26,13 @@ The trained model and encoders (`best_model.pkl`, `feature_columns.pkl`, `label_
 ## Screenshots
 
 ### Home page
-![Home](screenshots/Home.png)
+![Home](assets/Home.png)
 
 ### Phishing link result
-![Phishing Result](screenshots/phishing-result.png)
+![Phishing Result](assets/phishing-result.png)
 
 ### Legitimate link result
-![Legitimate Result](screenshots/legitimate-result.png)
+![Legitimate Result](assets/legitimate-result.png)
 
 ## How to run
 
